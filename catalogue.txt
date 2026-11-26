@@ -1,3 +1,4 @@
 Shop: Fresh Fruit
-Apple price: 7 EUR
-Opening: 10:00
+Apple price: 2 EUR
+Grape stock: 30
+Opening: 09:00
